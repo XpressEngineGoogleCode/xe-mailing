@@ -1,0 +1,1 @@
+XE Mailing is a mailing module for XpressEngine
